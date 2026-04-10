@@ -6,6 +6,8 @@
     <title>Portfólio | Engenharia de Software</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="src/avatar.webp" type="image/x-icon">
+    
 </head>
 <body>
 
@@ -51,6 +53,8 @@
             <h2 style="margin-left: 20px;">Projetos em Destaque</h2>
 
             <div class="project-card">
+                <div class="project-image">
+                    <img src="src/logo.jpg" alt="Interface da API InnovaBank"> </div>
                 <div class="project-header">
                     <h3>InnovaBank Project Management API</h3>
                     <span class="company-tag">DigitalFlow Solutions</span>
@@ -69,8 +73,10 @@
                     <span class="tag">MVC</span>
                 </div>
             </div>
-
+                
             <div class="project-card">
+                <div class="project-image">
+                    <img src="src/img_base.jpg" alt="Interface da API Task"> </div>
                 <h3>Task Management API</h3>
                 <p>API RESTful para gerenciamento de tarefas desenvolvida com Django REST Framework.</p>
                 <ul>
@@ -86,7 +92,10 @@
                 </div>
             </div>
 
+            
             <div class="project-card">
+                <div class="project-image">
+                    <img src="src/bibli_tec.jpg" alt="Interface da Arquitetura MVC"> </div>
                 <h3>Biblioteca MVC</h3>
                 <p>Sistema de gestão de acervo bibliotecário aplicando padrões de projeto e separação de camadas.</p>
                 <ul>
@@ -103,23 +112,35 @@
             </div>
         </section>
 
-        <section id="contato" class="hidden-section project-card">
-            <h2>Contato</h2>
-            <p>Estou aberta a oportunidades de estágio na área de tecnologia.</p>
-            <div class="contact-links">
-                <p>📧 luiza.campossouza.25@gmail.com</p>
-                <p>
-                    <a href="https://github.com/EsterLuiza25" target="_blank" class="social-link">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
-                </p>
-                <p>
-                    <a href="https://www.linkedin.com/in/ester-luiza-731a6a248/" target="_blank" class="social-link">
-                        <i class="fab fa-linkedin"></i> LinkedIn
-                    </a>
-                </p>
-            </div>
-        </section>
+        
+        
+<section id="contato" class="hidden-section">
+    <h2>Contato</h2>
+    <p>Gostou do meu trabalho? Vamos conversar sobre tecnologia ou oportunidades!</p>
+    
+    <div class="contact-container">
+        <a href="https://www.linkedin.com/in/ester-luiza-731a6a248/" target="_blank" class="contact-card">
+            <i class="fab fa-linkedin-in"></i>
+            <span>LinkedIn</span>
+        </a>
+        <a href="mailto:luiza.campossouza25.@gmail.com" class="contact-card">
+            <i class="fas fa-envelope"></i>
+            <span>E-mail</span>
+        </a>
+
+        <a href="https://github.com/EsterLuiza25" target=_blank class="contact-card">
+                <i class="fab fa-github"></i>
+                <span>GitHub</span>
+        </a>
+
+        <a href="src/CV Ester Luiza Souza Campos.pdf.pdf" target="_blank" class="contact-card">
+                <i class="fas fa-file-pdf"></i>
+                <span>Currículo</span>
+        </a>
+    </div>
+</section>
+        
+
     </div>
 
     <footer>
