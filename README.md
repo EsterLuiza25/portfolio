@@ -1,9 +1,9 @@
 ## 🚀 Portfólio: Engenharia de Software & Desenvolvimento Web
 
-Bem-vindo(a) ao meu espaço! Sou estudante de Engenharia de Software e apaixonada por transformar lógica em soluções visuais e funcionais. Este portfólio reflete meu aprendizado em Python, Django e as melhores práticas de arquitetura de sistemas.
+# Bem-vindo(a) ao meu espaço! Sou estudante de Engenharia de Software e apaixonada por transformar lógica em soluções visuais e funcionais. Este portfólio reflete meu aprendizado em Python, Django e as melhores práticas de arquitetura de sistemas.
 
-👩‍💻 Sobre Mim
-Atualmente, foco meus estudos no desenvolvimento de sistemas robustos e seguros. Acredito que a tecnologia deve ser poderosa "por debaixo do capô" (backend) e intuitiva para o usuário final (frontend). Além da programação, busco aplicar meu raciocínio lógico em grandes desafios de gestão e dados.
+## 👩‍💻 Sobre Mim
+# Atualmente, foco meus estudos no desenvolvimento de sistemas robustos e seguros. Acredito que a tecnologia deve ser poderosa "por debaixo do capô" (backend) e intuitiva para o usuário final (frontend). Além da programação, busco aplicar meu raciocínio lógico em grandes desafios de gestão e dados.
 
 ---
 
