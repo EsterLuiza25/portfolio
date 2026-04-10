@@ -1,12 +1,27 @@
-# 🚀 Portifólio de Desenvolvimento de Software
+🚀 Portfólio: Engenharia de Software & Desenvolvimento Web
+Bem-vindo(a) ao meu espaço! Sou estudante de Engenharia de Software e apaixonada por transformar lógica em soluções visuais e funcionais. Este portfólio reflete meu aprendizado em Python, Django e as melhores práticas de arquitetura de sistemas.
 
-Sou estudante de **Engenharia de Software** curiosa e adoro entender como as coisas funcionam por "baixo do capô". 
-
-Hoje, foco em construir soluções que facilitem o dia a dia, seja criando APIs robustas no backend ou transformando números em decisões inteligentes.
+👩‍💻 Sobre Mim
+Atualmente, foco meus estudos no desenvolvimento de sistemas robustos e seguros. Acredito que a tecnologia deve ser poderosa "por debaixo do capô" (backend) e intuitiva para o usuário final (frontend). Além da programação, busco aplicar meu raciocínio lógico em grandes desafios de gestão e dados.
 
 ---
 
-## 🛠️ O que eu uso para construir
+## 📁🛠️ Meus Projetos Principais
+
+1. 💳 InnovaBank API (Gestão de Dados)
+O que é: Uma API robusta desenvolvida com o framework Django.
+Como funciona: É o "motor" digital para uma empresa. Imagine uma central que permite que diferentes aplicativos conversem entre si com segurança, garantindo que os dados da empresa estejam sempre organizados.
+--
+2. 📚 Sistema de Gestão de Biblioteca (Padrão MVC)
+O que é: Um organizador inteligente para acervos e empréstimos.
+Como funciona: Funciona como a estrutura de um restaurante: uma parte cuida do "estoque" (os livros), outra da "apresentação" (o que o usuário vê) e uma terceira coordena os pedidos. Isso torna o sistema rápido e fácil de crescer.
+--
+3. ✅ API de Gerenciamento de Tarefas (Task Management)
+O que é: Uma central de controle construída com Django REST Framework.
+Como funciona: Funciona como um assistente digital que ajuda equipes a nunca esquecerem um prazo. Permite criar metas e acompanhar o progresso de cada projeto em tempo real.
+--
+
+## 🛠️ 💻 Tecnologias & Ferramentas
 
 ### 🖥️ Backend (Meu foco principal)
 *Onde a lógica acontece.*
@@ -26,14 +41,6 @@ Hoje, foco em construir soluções que facilitem o dia a dia, seja criando APIs 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 📁 Projetos que desenvolvi
-
-* **[GTarefas API]**: Um gerenciador de tarefas completo com documentação automática.
-* **[InnovaBank]**: Sistema backend focado em gestão financeira.
-* **[Sistema de Biblioteca]**: Projeto organizado com arquitetura MVC.
 
 ---
 
