@@ -57,4 +57,4 @@ Como funciona: Funciona como um assistente digital que ajuda equipes a nunca esq
 
 ## 🌐 Veja meu portfólio em ação
 Confira meus projetos de forma visual:
-👉 **[Meu Portfólio Online](https://esterluiza25.github.io/portifolio/)**
+👉 **[Meu Portfólio Online](https://esterluiza25.github.io/portfolio/)**
